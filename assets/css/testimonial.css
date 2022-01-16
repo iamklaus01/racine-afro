@@ -1,0 +1,31 @@
+#all-testimonials{
+    margin: 150px 0 50px;
+}
+.testimonials h3 {
+    font-family: "Old Standard TT" , serif;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #8d8d8d;
+}
+.testimonials h3 span{
+    color: #2596be;
+}
+.testimonials .card {
+    border-bottom: 3px #2596be solid !important;
+    transition: 2s;
+    margin: 60px 0 90px;
+}
+.testimonials .card-text{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.testimonials .card i {
+    background-color: #2596be;
+    color: #ffffff;
+    font-size: 40px;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    margin: -40px auto 0 auto;
+}
